@@ -1,12 +1,16 @@
 {
   "resources": [
-    {"id":{"name":"O_Upgrad_Button02","path":"objects/O_Upgrad_Button02/O_Upgrad_Button02.yy",},"order":5,},
     {"id":{"name":"sd_eff_big_hit","path":"sounds/sd_eff_big_hit/sd_eff_big_hit.yy",},"order":0,},
     {"id":{"name":"O_Spawn_Button","path":"objects/O_Spawn_Button/O_Spawn_Button.yy",},"order":6,},
+    {"id":{"name":"o_Debris","path":"objects/o_Debris/o_Debris.yy",},"order":0,},
+    {"id":{"name":"O_MiningShip","path":"objects/O_MiningShip/O_MiningShip.yy",},"order":7,},
+    {"id":{"name":"s_sfx_Debris","path":"sprites/s_sfx_Debris/s_sfx_Debris.yy",},"order":0,},
+    {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},"order":0,},
     {"id":{"name":"S_IconTextButton","path":"sprites/S_IconTextButton/S_IconTextButton.yy",},"order":0,},
+    {"id":{"name":"S_MiningShip","path":"sprites/S_MiningShip/S_MiningShip.yy",},"order":15,},
     {"id":{"name":"Background_03","path":"sprites/Background_03/Background_03.yy",},"order":0,},
     {"id":{"name":"O_Var","path":"objects/O_Var/O_Var.yy",},"order":0,},
-    {"id":{"name":"O_Upgrad_Button01","path":"objects/O_Upgrad_Button01/O_Upgrad_Button01.yy",},"order":4,},
+    {"id":{"name":"O_Upgrad_Button","path":"objects/O_Upgrad_Button/O_Upgrad_Button.yy",},"order":4,},
     {"id":{"name":"sd_eff_coin","path":"sounds/sd_eff_coin/sd_eff_coin.yy",},"order":1,},
     {"id":{"name":"O_Game_system","path":"objects/O_Game_system/O_Game_system.yy",},"order":1,},
     {"id":{"name":"Room_Game","path":"rooms/Room_Game/Room_Game.yy",},"order":1,},
@@ -61,6 +65,9 @@
     {"folderPath":"folders/Sprites/Astroid.yy","order":2,"resourceVersion":"1.0","name":"Astroid","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sounds/SOUND.yy","order":1,"resourceVersion":"1.0","name":"SOUND","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sprites/BUTTON.yy","order":3,"resourceVersion":"1.0","name":"BUTTON","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Objects/UI&SFX.yy","order":8,"resourceVersion":"1.0","name":"UI&SFX","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Sprites/GUI&FX.yy","order":4,"resourceVersion":"1.0","name":"GUI&FX","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Sprites/GUI&FX/SFX.yy","order":1,"resourceVersion":"1.0","name":"SFX","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
     {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},

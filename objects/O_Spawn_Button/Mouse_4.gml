@@ -4,7 +4,7 @@ Tap_Ani = 30;
 
 image_index = 1;
 
-if ! instance_exists(O_Astroid) { 
+//if ! instance_exists(O_Astroid) { 
 
 
 	 
@@ -18,12 +18,12 @@ if ! instance_exists(O_Astroid) {
 //#. 
 audio_play_sound( sd_eff_positive_03, 1000, 0);	 
 	 
-	}else{
+//	}else{
 	
-//#. 
-audio_play_sound( sd_eff_negative_02, 1000, 0);	
+////#. 
+//audio_play_sound( sd_eff_negative_02, 1000, 0);	
 	
-	}
+//	}
 
 
 
